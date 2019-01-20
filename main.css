@@ -74,8 +74,11 @@
     padding-bottom: 50px;
     color: #2C3E50;
     margin: auto;
-    letter-spacing: 0.5rem;
     font-weight: 100;
+}
+
+.PLAY-header{
+    letter-spacing: 0.5rem;
 }
 
 #WHYnav, #CONTRIBUTEnav, .footer{
@@ -162,4 +165,9 @@
 }
 small{
     color: gray;
+}
+
+#canvas-holder {
+    min-width: 1280px;
+    letter-spacing: none;
 }
